@@ -18,20 +18,6 @@
   "jest": {
     "testEnvironment": "node"
   },
-  "greenkeeper": {
-    "ignore": [
-      "coveralls",
-      "eslint",
-      "eslint-config-airbnb-base",
-      "eslint-config-prettier",
-      "eslint-plugin-import",
-      "husky",
-      "is-svg",
-      "jest",
-      "lint-staged",
-      "prettier"
-    ]
-  },
   "devDependencies": {
     "eslint": "^5.0.0",
     "eslint-config-airbnb-base": "^13.0.0",
